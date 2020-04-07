@@ -6,6 +6,9 @@
 <PKG name="Helloworld" aid="00 11 22 33 66 55" major="1" minor="0">
 <APPLET aid="00 11 22 33 66 55 00" instanceaid="" parameter="" authority="" privileges="" index="15384" name="Helloworld"/>
 </PKG>
+<PKG name="bank.purse" aid="22 33 44 55 66 77" major="1" minor="0">
+<APPLET aid="22 33 44 55 66 77 00" instanceaid="" parameter="" authority="" privileges="" index="-15272" name="Wallet"/>
+</PKG>
 <Libs/>
 </USER>
 <DebugInfo>
