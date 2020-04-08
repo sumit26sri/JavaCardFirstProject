@@ -3,6 +3,7 @@
 <PkgNodes>
 <Node>MyFirstApplet</Node>
 <Node>Helloworld</Node>
+<Node>bank.purse</Node>
 </PkgNodes>
 </ExpandNodes>
 <FileNodes>
@@ -10,9 +11,13 @@
 <fileName>src\MyFirstApplet\MyFirstApplet.java</fileName>
 <line>9</line>
 </fnode>
-<ActiveFile>
+<fnode>
 <fileName>src\Helloworld\Helloworld.java</fileName>
 <line>29</line>
+</fnode>
+<ActiveFile>
+<fileName>src\bank\purse\Wallet.java</fileName>
+<line>22</line>
 </ActiveFile>
 </FileNodes>
 </StateInfo>
