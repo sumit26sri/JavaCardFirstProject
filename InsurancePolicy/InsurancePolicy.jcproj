@@ -1,0 +1,8 @@
+<JavaCardProject name="InsurancePolicy">
+<USER>
+<PKG name="com.insurance.controller" aid="11 22 33 44 55 66" major="1" minor="0">
+<APPLET aid="11 22 33 44 55 66 00" instanceaid="" parameter="" authority="" privileges="" index="-11136" name="InsuranceApplet"/>
+</PKG>
+<Libs/>
+</USER>
+</JavaCardProject>
